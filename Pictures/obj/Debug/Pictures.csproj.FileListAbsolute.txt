@@ -1,0 +1,7 @@
+D:\ДЗ\pictures\Pictures\Pictures\bin\Debug\Pictures.exe.config
+D:\ДЗ\pictures\Pictures\Pictures\bin\Debug\Pictures.exe
+D:\ДЗ\pictures\Pictures\Pictures\bin\Debug\Pictures.pdb
+D:\ДЗ\pictures\Pictures\Pictures\obj\Debug\Pictures.csproj.AssemblyReference.cache
+D:\ДЗ\pictures\Pictures\Pictures\obj\Debug\Pictures.csproj.CoreCompileInputs.cache
+D:\ДЗ\pictures\Pictures\Pictures\obj\Debug\Pictures.exe
+D:\ДЗ\pictures\Pictures\Pictures\obj\Debug\Pictures.pdb
