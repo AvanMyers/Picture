@@ -11,12 +11,12 @@ namespace Pictures
         static void Main(string[] args)
         {
             int imagesCount = 52;
-            int rowImages = 3;
+            int rowImagesLine = 3;
             int filledRows;
             int imagenesRest;
 
-            filledRows = imagesCount / rowImages;
-            imagenesRest = imagesCount % rowImages;
+            filledRows = imagesCount / rowImagesLine;
+            imagenesRest = imagesCount % rowImagesLine;
 
             Console.WriteLine($"Заполненных рядов {filledRows}, свободных карточек осталось {imagenesRest}");
             Console.ReadKey();
